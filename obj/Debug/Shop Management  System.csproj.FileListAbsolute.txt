@@ -1,0 +1,32 @@
+C:\Users\dell\source\repos\Shop Management  System\bin\Debug\Shop Management  System.exe.config
+C:\Users\dell\source\repos\Shop Management  System\bin\Debug\Shop Management  System.exe
+C:\Users\dell\source\repos\Shop Management  System\bin\Debug\Shop Management  System.pdb
+C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop Management  System.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop Management  System.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop_Management__System.Properties.Resources.resources
+C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop Management  System.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop Management  System.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop Management  System.exe
+C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop Management  System.pdb
+C:\Users\dell\source\repos\Shop Management  System\bin\Debug\Guna.UI2.dll
+C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop Management  System.csproj.CopyComplete
+C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop_Management__System.login.resources
+C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop_Management__System.dashboard.resources
+C:\Users\dell\source\repos\Shop Management  System\bin\Debug\CircularProgressBar.dll
+C:\Users\dell\source\repos\Shop Management  System\bin\Debug\WinFormAnimation.dll
+C:\Users\dell\source\repos\Shop Management  System\bin\Debug\CircularProgressBar.xml
+C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop_Management__System.dashForm.resources
+C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop_Management__System.about.resources
+C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop_Management__System.Additem.resources
+C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop_Management__System.Customer.resources
+C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop_Management__System.Employee.resources
+C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop_Management__System.supplier.resources
+C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop_Management__System.EmployeeDashboard.resources
+C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop_Management__System.PlaceOrder.resources
+C:\Users\dell\source\repos\Shop Management  System\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop_Management__System.viewOrder.resources
+C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop_Management__System.dataHistory.resources
+C:\Users\dell\source\repos\Shop Management  System\bin\Debug\Shop Management  System.exe.manifest
+C:\Users\dell\source\repos\Shop Management  System\bin\Debug\Shop Management  System.application
+C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop Management  System.exe.manifest
+C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop Management  System.application
