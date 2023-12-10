@@ -30,3 +30,35 @@ C:\Users\dell\source\repos\Shop Management  System\bin\Debug\Shop Management  Sy
 C:\Users\dell\source\repos\Shop Management  System\bin\Debug\Shop Management  System.application
 C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop Management  System.exe.manifest
 C:\Users\dell\source\repos\Shop Management  System\obj\Debug\Shop Management  System.application
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\obj\Debug\Shop Management  System.csproj.AssemblyReference.cache
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\obj\Debug\Shop_Management__System.about.resources
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\obj\Debug\Shop_Management__System.Additem.resources
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\obj\Debug\Shop_Management__System.dataHistory.resources
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\obj\Debug\Shop_Management__System.Customer.resources
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\obj\Debug\Shop_Management__System.dashboard.resources
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\obj\Debug\Shop_Management__System.dashForm.resources
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\obj\Debug\Shop_Management__System.Employee.resources
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\obj\Debug\Shop_Management__System.EmployeeDashboard.resources
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\obj\Debug\Shop_Management__System.login.resources
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\obj\Debug\Shop_Management__System.PlaceOrder.resources
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\obj\Debug\Shop_Management__System.Properties.Resources.resources
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\obj\Debug\Shop_Management__System.supplier.resources
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\obj\Debug\Shop_Management__System.viewOrder.resources
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\obj\Debug\Shop Management  System.csproj.GenerateResource.cache
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\obj\Debug\Shop Management  System.csproj.CoreCompileInputs.cache
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\obj\Debug\Shop Management  System.exe
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\obj\Debug\Shop Management  System.pdb
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\bin\Debug\Shop Management  System.exe.config
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\bin\Debug\Shop Management  System.exe.manifest
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\bin\Debug\Shop Management  System.application
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\bin\Debug\Shop Management  System.exe
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\bin\Debug\Shop Management  System.pdb
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\bin\Debug\CircularProgressBar.dll
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\bin\Debug\Guna.UI2.dll
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\bin\Debug\WinFormAnimation.dll
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\bin\Debug\CircularProgressBar.xml
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\obj\Debug\Shop Management  System.exe.manifest
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\obj\Debug\Shop Management  System.application
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\obj\Debug\Shop Man.5435D9D4.Up2Date
+C:\Users\Junaid Ali\Documents\GitHub\Shop-Management-System\bin\Debug\Guna.Charts.WinForms.xml
